@@ -1,0 +1,12 @@
+body {
+    display:flex;
+    flex-direction:column;
+}
+header,
+footer {
+    height:56px;
+    margin:0;
+}
+.container {
+    overflow: auto;
+}
